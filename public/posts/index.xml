@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Polaroid collection</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Polaroid collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zkušebka</title>
+      <link>http://localhost:1313/posts/fotoaparaty/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/fotoaparaty/post-3/</guid>
+      <description>Zkušebka Rok výroby:&#x9;2017&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;I-Type&#xA;Další funkce:&#x9;blesk, korekce expozice, samospoušť&#xA;Stav:&#x9;10/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;1200 kč&#xA;Poznámka:</description>
+    </item>
+  </channel>
+</rss>

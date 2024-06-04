@@ -1,0 +1,131 @@
+/* fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+/* page */
+body {
+  color: #000000;
+  background-color: #41e47e;
+  font-family: sans-serif;
+  line-height: 1.5;
+  margin: 1rem;
+  
+}
+
+header {
+  background-color: #41e47e;
+  border-bottom: 3px solid #000000;
+  margin-bottom: 1rem;
+  width: 100%;
+  position:absolute; 
+  top:0px; 
+  left:0px; 
+  height:154px; 
+  right:0px;
+  overflow:hidden;
+}
+
+main {
+  position:absolute; 
+  top:154px; 
+  bottom:30px; 
+  left:2%; 
+  right:0px; 
+  overflow:auto;
+  width: 95%;
+}
+
+footer {
+  background-color: #41e47e;
+  border-top: 3px solid #000000;
+  margin-top: 7rem;
+  width: 100%;
+  position:absolute; 
+  bottom:0px; 
+  height:30px; 
+  left:0px; 
+  right:0px; 
+  overflow:hidden;
+}
+
+/* menu */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+li {
+  float: left;
+  border: 1px solid #41e47e;
+}
+
+li a {
+  display: block;
+  color: #41e47e;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul a:hover {
+  color: #41e47e;
+  background-color: #333;
+}
+
+/* texts */
+header h1 {
+  color: #ffffff;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+header a {
+  color: #ffffff;
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+footer p {
+  color: #ffffff;
+  font-size: 14px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+h1 {
+  color: #000000;
+  font-size: 36px;
+}
+
+h2 {
+  color: #000000;
+  font-size: 42px;
+}
+
+a:hover {
+  color: #ffffff;
+}
+
+p {
+  font-size: 18px;
+}
+
+/* images */
+img {
+  float: right;
+  margin-right: 40px;
+  width: 20%;
+  height: auto;
+  border: 3px solid #9a3d27;
+}

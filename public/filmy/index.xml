@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filmy on Polaroid archive</title>
+    <link>https://example.org/filmy/</link>
+    <description>Recent content in Filmy on Polaroid archive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/filmy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. I-Type and Go</title>
+      <link>https://example.org/filmy/1.-i-type-and-go/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/1.-i-type-and-go/</guid>
+      <description>Polaroid film I-Type Datum spotřeby:&#x9;04/2022&#xA;ASA:&#x9;640&#xA;Počet snímků:&#x9;8&#xA;Barevný/ČB:&#x9;barevný&#xA;Typ filmu:&#x9;I-Type&#xA;Kupní cena:&#x9;449 kč&#xA;Poznámka:&#xA;Polaroid film I-Type Datum spotřeby:&#x9;11/2020&#xA;ASA:&#x9;640&#xA;Počet snímků:&#x9;8&#xA;Barevný/ČB:&#x9;černobílý&#xA;Typ filmu:&#x9;I-Type&#xA;Kupní cena:&#x9;449 kč&#xA;Poznámka:&#x9;Dárek k Vánocům 2022</description>
+    </item>
+    <item>
+      <title>2. 600</title>
+      <link>https://example.org/filmy/2.-600/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/2.-600/</guid>
+      <description>Polaroid film 600 / 2pack Datum spotřeby:&#x9;03/2004&#xA;ASA:&#x9;600&#xA;Počet snímků:&#x9;20&#xA;Barevný/ČB:&#x9;barevný&#xA;Typ filmu:&#x9;600&#xA;Kupní cena:&#x9;450 kč&#xA;Poznámka:&#x9;Nefunkční&#xA;Polaroid film 600 Datum spotřeby:&#x9;06/2009&#xA;ASA:&#x9;600&#xA;Počet snímků:&#x9;10&#xA;Barevný/ČB:&#x9;barevný&#xA;Typ filmu:&#x9;600&#xA;Kupní cena:&#x9;230 kč&#xA;Poznámka:&#x9;Nefunkční</description>
+    </item>
+    <item>
+      <title>3. Spectra</title>
+      <link>https://example.org/filmy/3.-spectra/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/3.-spectra/</guid>
+      <description>Polaroid film Spectra Datum spotřeby:&#x9;?&#xA;ASA:&#xA;Počet snímků:&#x9;10&#xA;Barevný/ČB:&#x9;barevný&#xA;Typ filmu:&#x9;Spectra&#xA;Kupní cena:&#x9;570 kč&#xA;Poznámka:&#xA;Polaroid film Image Datum spotřeby:&#x9;?&#xA;ASA:&#xA;Počet snímků:&#x9;10&#xA;Barevný/ČB:&#x9;barevný&#xA;Typ filmu:&#x9;600&#xA;Kupní cena:&#x9;150 kč a 45 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>4. SX-70</title>
+      <link>https://example.org/filmy/4.-sx-70/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/4.-sx-70/</guid>
+      <description>Polaroid film Time-Zero supercolor Datum spotřeby:&#x9;07/1991&#xA;ASA:&#x9;150&#xA;Počet snímků:&#x9;10&#xA;Barevný/ČB:&#x9;barevný&#xA;Typ filmu:&#x9;SX-70&#xA;Kupní cena:&#x9;239 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>5. 100</title>
+      <link>https://example.org/filmy/5.-100/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/5.-100/</guid>
+      <description>Polaroid film Type 107 Datum spotřeby: 02/1988&#xA;ASA: 3000&#xA;Počet snímků: 8&#xA;Barevný/ČB: černobílý&#xA;Typ filmu: 100&#xA;Kupní cena: 319 kč&#xA;Poznámka:&#xA;Polaroid film Type 125i Datum spotřeby: 12/2007&#xA;ASA: 125&#xA;Počet snímků: 22&#xA;Barevný/ČB: barevný&#xA;Typ filmu: 100&#xA;Kupní cena: 480 kč a 75 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>6. 80</title>
+      <link>https://example.org/filmy/6.-80/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/6.-80/</guid>
+      <description>Polaroid film Type 87 Datum spotřeby: 09/1987&#xA;ASA: 3000&#xA;Počet snímků: 8&#xA;Barevný/ČB: černobílý&#xA;Typ filmu: 80&#xA;Kupní cena: 239 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>7. Ostatní</title>
+      <link>https://example.org/filmy/7.-ostatn%C3%AD/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/7.-ostatn%C3%AD/</guid>
+      <description>Polaroid film 95 Joycam Datum spotřeby: 00/00&#xA;ASA:&#xA;Počet snímků: 10&#xA;Barevný/ČB: barevný&#xA;Typ filmu: 95&#xA;Kupní cena: 1235 kč&#xA;Poznámka:&#xA;Polaroid film I-Zone Datum spotřeby: 11/2001&#xA;ASA: 640&#xA;Počet snímků: 12&#xA;Barevný/ČB: barevný&#xA;Typ filmu: I-Zone&#xA;Kupní cena: 525 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>8. Kinofilmy</title>
+      <link>https://example.org/filmy/8.-kinofilmy/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/filmy/8.-kinofilmy/</guid>
+      <description>Polaroid film Polachrome 35mm Datum spotřeby: 1977&#xA;ASA: 40&#xA;Počet snímků: 36&#xA;Barevný/ČB: barevný&#xA;Typ filmu: Polachrome 35 mm&#xA;Kupní cena: 310 kč&#xA;Poznámka: Kinofilm pro analogové fotoaparáty. Chemie v krabičce k vyvolání je součástí balení. K vyvolání je třeba sada s autoprocessorem.&#xA;Polaroid film High Definition 200 Datum spotřeby: 04/1992&#xA;ASA: 200&#xA;Počet snímků: 36&#xA;Barevný/ČB: barevný&#xA;Typ filmu: 35 mm&#xA;Kupní cena: 450 kč&#xA;Poznámka:</description>
+    </item>
+  </channel>
+</rss>

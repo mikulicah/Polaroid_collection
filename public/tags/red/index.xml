@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red on Polaroid collection</title>
+    <link>http://localhost:1313/tags/red/</link>
+    <description>Recent content in Red on Polaroid collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2023 08:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fotoaparáty</title>
+      <link>http://localhost:1313/fotoaparaty/</link>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/fotoaparaty/</guid>
+      <description>Kolekce fotoaparátu.</description>
+    </item>
+  </channel>
+</rss>
