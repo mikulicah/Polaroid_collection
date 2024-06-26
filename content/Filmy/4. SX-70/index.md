@@ -1,7 +1,9 @@
 +++
-title = '4. SX-70'
+title = 'SX-70'
 date = 2024-06-03
 draft = false
+slug = "SX-70"
+weight = 4
 +++
 
 # Polaroid film Time-Zero supercolor

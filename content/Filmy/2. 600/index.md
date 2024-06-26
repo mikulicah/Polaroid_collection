@@ -1,7 +1,9 @@
 +++
-title = '2. 600'
+title = '600'
 date = 2024-06-03
 draft = false
+slug = "600"
+weight = 2
 +++
 
 # Polaroid film 600 / 2pack

@@ -1,7 +1,9 @@
 +++
-title = '8. Kinofilmy'
+title = 'Kinofilmy'
 date = 2024-06-03
 draft = false
+slug = "kinofilmy"
+weight = 8
 +++
 
 # Polaroid film Polachrome 35mm

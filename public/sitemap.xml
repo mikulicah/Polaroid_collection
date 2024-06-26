@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/filmy/1.-i-type-and-go/</loc>
+    <loc>https://example.org/filmy/i-type-and-go/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/fotoaparaty/1.-i-type-and-go/</loc>
+    <loc>https://example.org/filmy/600/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/polaroidy/1.-polaroidy---vlastn%C4%9Bn%C3%A9/</loc>
+    <loc>https://example.org/filmy/spectra/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/filmy/2.-600/</loc>
+    <loc>https://example.org/filmy/sx-70/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/fotoaparaty/2.-600/</loc>
+    <loc>https://example.org/filmy/100/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/polaroidy/2.-polaroidy---nevlastn%C4%9Bn%C3%A9/</loc>
+    <loc>https://example.org/filmy/80/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/polaroidy/3.-polaroidy-z-polaroidu-300-na-filmu-instax--vlastn%C4%9Bn%C3%A9/</loc>
+    <loc>https://example.org/filmy/ostatni/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/filmy/3.-spectra/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/fotoaparaty/3.-spectra/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/polaroidy/4.-polaroidy-z-instaxu--vlastn%C4%9Bn%C3%A9/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/filmy/4.-sx-70/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/fotoaparaty/4.-sx-70/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/filmy/5.-100/</loc>
+    <loc>https://example.org/filmy/kinofilmy/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/fotoaparaty/5.-100/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/polaroidy/5.-polaroidy-z-instaxu--nevlastn%C4%9Bn%C3%A9/</loc>
-    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/filmy/6.-80/</loc>
+    <loc>https://example.org/fotoaparaty/2.-600/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/fotoaparaty/6.-80/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/filmy/7.-ostatn%C3%AD/</loc>
+    <loc>https://example.org/fotoaparaty/1.-i-type-and-go/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/fotoaparaty/7.-ostatn%C3%AD/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/filmy/8.-kinofilmy/</loc>
+    <loc>https://example.org/polaroidy/2.-polaroidy---nevlastn%C4%9Bn%C3%A9/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/polaroidy/1.-polaroidy---vlastn%C4%9Bn%C3%A9/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/polaroidy/5.-polaroidy-z-instaxu--nevlastn%C4%9Bn%C3%A9/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/polaroidy/4.-polaroidy-z-instaxu--vlastn%C4%9Bn%C3%A9/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/polaroidy/3.-polaroidy-z-polaroidu-300-na-filmu-instax--vlastn%C4%9Bn%C3%A9/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/fotoaparaty/3.-spectra/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/fotoaparaty/4.-sx-70/</loc>
     <lastmod>2024-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/blog/</loc>

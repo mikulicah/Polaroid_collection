@@ -1,7 +1,9 @@
 +++
-title = '5. 100'
+title = '100'
 date = 2024-06-03
 draft = false
+slug = "100"
+weight = 5
 +++
 
 # Polaroid film Type 107

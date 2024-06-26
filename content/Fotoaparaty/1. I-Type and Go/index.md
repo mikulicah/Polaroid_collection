@@ -1,5 +1,5 @@
 +++
-title = '1. I-Type and Go'
+title = 'I-Type and Go'
 date = 2024-06-03
 draft = false
 +++
