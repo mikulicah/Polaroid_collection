@@ -1,7 +1,9 @@
 +++
-title = '7. Ostatní'
+title = 'Ostatní'
 date = 2024-06-03
 draft = false
+slug = "ostatni"
+weight = 7
 +++
 
 # Polaroid film 95 Joycam

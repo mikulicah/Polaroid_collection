@@ -1,5 +1,5 @@
 +++
-title = '5. 100'
+title = '100'
 date = 2024-06-03
 draft = false
 +++

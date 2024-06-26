@@ -1,5 +1,5 @@
 +++
-title = '3. Spectra'
+title = 'Spectra'
 date = 2024-06-03
 draft = false
 +++

@@ -9,53 +9,53 @@
     <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/fotoaparaty/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1. I-Type and Go</title>
-      <link>https://example.org/fotoaparaty/1.-i-type-and-go/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/fotoaparaty/1.-i-type-and-go/</guid>
-      <description>Polaroid OneStep2 Rok výroby:&#x9;2017&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;I-Type&#xA;Další funkce:&#x9;blesk, korekce expozice, samospoušť&#xA;Stav:&#x9;10/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;1200 kč&#xA;Poznámka:&#xA;Polaroid OneStep+ Rok výroby:&#x9;2018&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;I-Type&#xA;Další funkce:&#x9;blesk, korekce expozice, standartní a portrétní objektiv, aplikace polaroid&#xA;Stav:&#x9;10/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;? kč&#xA;Poznámka:&#x9;Režimy v aplikaci: časovač, kresba světlem, plně manuální režim, dvojitá expozice, dálková spoušť, odpálení spouště zvukem, skener.</description>
-    </item>
-    <item>
-      <title>2. 600</title>
-      <link>https://example.org/fotoaparaty/2.-600/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/fotoaparaty/2.-600/</guid>
-      <description>Polaroid 645 SuperColor Rok výroby:&#x9;80.léta&#xA;Rozsah zaostření:&#x9;1,2m – nekonečno&#xA;Objektiv:&#x9;116mm f/11&#xA;Typ filmu:&#x9;600&#xA;Další funkce:&#x9;blesk, korekce expozice&#xA;Stav:&#x9;9/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;500 kč&#xA;Poznámka:&#x9;Můj první polaroid.&#xA;Polaroid 636 CloseUp Rok výroby:&#x9;1996&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;116mm f/11&#xA;Typ filmu:&#x9;600&#xA;Další funkce:&#x9;blesk, korekce expozice, close-up předsádka&#xA;Stav:&#x9;9/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;500 kč&#xA;Poznámka:&#xA;Polaroid 600 OneStep Rok výroby:&#x9;1983</description>
-    </item>
-    <item>
-      <title>3. Spectra</title>
-      <link>https://example.org/fotoaparaty/3.-spectra/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/fotoaparaty/3.-spectra/</guid>
-      <description>Polaroid Image System Rok výroby:&#x9;1986&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;125mm f/10&#xA;Typ filmu:&#x9;Spectra&#xA;Další funkce:&#x9;blesk, automatická/manuální expozice, zvukové spouštění, časovač, autofocus&#xA;Stav:&#x9;6/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;300 kč&#xA;Poznámka:&#xA;Polaroid Image System Rok výroby:&#x9;1996&#xA;Rozsah zaostření:&#x9;1,2m – nekonečno&#xA;Objektiv:&#x9;125mm f/11&#xA;Typ filmu:&#x9;Spectra&#xA;Další funkce:&#x9;blesk, manuální expozice&#xA;Stav:&#x9;7/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;300 kč&#xA;Poznámka:</description>
-    </item>
-    <item>
-      <title>4. SX-70</title>
-      <link>https://example.org/fotoaparaty/4.-sx-70/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/fotoaparaty/4.-sx-70/</guid>
-      <description>Polaroid Land Camera 1000 Rok výroby:&#x9;1996&#xA;Rozsah zaostření:&#x9;1,2m – nekonečno&#xA;Objektiv:&#x9;103mm f/14,6&#xA;Typ filmu:&#x9;SX-70&#xA;Další funkce:&#x9;korekce expozice&#xA;Stav:&#x9;7/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;500 kč&#xA;Poznámka:&#xA;Polaroid Land Camera 1500 Rok výroby:&#x9;1977&#xA;Rozsah zaostření:&#x9;1m – nekonečno&#xA;Objektiv:&#x9;116mm f/9,4&#xA;Typ filmu:&#x9;SX-70&#xA;Další funkce:&#x9;korekce expozice&#xA;Stav:&#x9;5/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;217 kč&#xA;Poznámka:</description>
-    </item>
-    <item>
-      <title>5. 100</title>
+      <title>100</title>
       <link>https://example.org/fotoaparaty/5.-100/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/fotoaparaty/5.-100/</guid>
       <description>Polaroid Rok výroby:&#x9;1980&#xA;Rozsah zaostření:&#x9;0125mm&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;100 film&#xA;Další funkce:&#x9;blesk, korekce expozice, samospoušť&#xA;Stav:&#x9;8/10&#xA;Funkčnost:&#x9;Ano?&#xA;Kupní cena:&#x9;679 kč&#xA;Poznámka:</description>
     </item>
     <item>
-      <title>6. 80</title>
+      <title>600</title>
+      <link>https://example.org/fotoaparaty/2.-600/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fotoaparaty/2.-600/</guid>
+      <description>Polaroid 645 SuperColor Rok výroby:&#x9;80.léta&#xA;Rozsah zaostření:&#x9;1,2m – nekonečno&#xA;Objektiv:&#x9;116mm f/11&#xA;Typ filmu:&#x9;600&#xA;Další funkce:&#x9;blesk, korekce expozice&#xA;Stav:&#x9;9/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;500 kč&#xA;Poznámka:&#x9;Můj první polaroid.&#xA;Polaroid 636 CloseUp Rok výroby:&#x9;1996&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;116mm f/11&#xA;Typ filmu:&#x9;600&#xA;Další funkce:&#x9;blesk, korekce expozice, close-up předsádka&#xA;Stav:&#x9;9/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;500 kč&#xA;Poznámka:&#xA;Polaroid 600 OneStep Rok výroby:&#x9;1983</description>
+    </item>
+    <item>
+      <title>80</title>
       <link>https://example.org/fotoaparaty/6.-80/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/fotoaparaty/6.-80/</guid>
       <description>Polaroid Rok výroby:&#x9;1974 - 1977&#xA;Rozsah zaostření:&#x9;6m&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;80 film&#xA;Další funkce:&#xA;Stav:&#x9;6/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;288 kč&#xA;Poznámka:</description>
     </item>
     <item>
-      <title>7. Ostatní</title>
+      <title>I-Type and Go</title>
+      <link>https://example.org/fotoaparaty/1.-i-type-and-go/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fotoaparaty/1.-i-type-and-go/</guid>
+      <description>Polaroid OneStep2 Rok výroby:&#x9;2017&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;I-Type&#xA;Další funkce:&#x9;blesk, korekce expozice, samospoušť&#xA;Stav:&#x9;10/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;1200 kč&#xA;Poznámka:&#xA;Polaroid OneStep+ Rok výroby:&#x9;2018&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;I-Type&#xA;Další funkce:&#x9;blesk, korekce expozice, standartní a portrétní objektiv, aplikace polaroid&#xA;Stav:&#x9;10/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;? kč&#xA;Poznámka:&#x9;Režimy v aplikaci: časovač, kresba světlem, plně manuální režim, dvojitá expozice, dálková spoušť, odpálení spouště zvukem, skener.</description>
+    </item>
+    <item>
+      <title>Ostatní</title>
       <link>https://example.org/fotoaparaty/7.-ostatn%C3%AD/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://example.org/fotoaparaty/7.-ostatn%C3%AD/</guid>
       <description>Polaroid Vision Rok výroby:&#x9;1993&#xA;Rozsah zaostření:&#x9;2ft – nekonečno&#xA;Objektiv:&#x9;107mm f/12&#xA;Typ filmu:&#x9;95 film&#xA;Další funkce:&#x9;blesk, korekce expozice, autofocus&#xA;Stav:&#x9;8/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;400 kč&#xA;Poznámka:&#xA;Polaroid Joycam Rok výroby:&#x9;1990&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;106mm&#xA;Typ filmu:&#x9;95 film&#xA;Další funkce:&#x9;blesk, korekce expozice&#xA;Stav:&#x9;8/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;300 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>Spectra</title>
+      <link>https://example.org/fotoaparaty/3.-spectra/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fotoaparaty/3.-spectra/</guid>
+      <description>Polaroid Image System Rok výroby:&#x9;1986&#xA;Rozsah zaostření:&#x9;0,6m – nekonečno&#xA;Objektiv:&#x9;125mm f/10&#xA;Typ filmu:&#x9;Spectra&#xA;Další funkce:&#x9;blesk, automatická/manuální expozice, zvukové spouštění, časovač, autofocus&#xA;Stav:&#x9;6/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;300 kč&#xA;Poznámka:&#xA;Polaroid Image System Rok výroby:&#x9;1996&#xA;Rozsah zaostření:&#x9;1,2m – nekonečno&#xA;Objektiv:&#x9;125mm f/11&#xA;Typ filmu:&#x9;Spectra&#xA;Další funkce:&#x9;blesk, manuální expozice&#xA;Stav:&#x9;7/10&#xA;Funkčnost:&#x9;?&#xA;Kupní cena:&#x9;300 kč&#xA;Poznámka:</description>
+    </item>
+    <item>
+      <title>SX-70</title>
+      <link>https://example.org/fotoaparaty/4.-sx-70/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/fotoaparaty/4.-sx-70/</guid>
+      <description>Polaroid Land Camera 1000 Rok výroby:&#x9;1996&#xA;Rozsah zaostření:&#x9;1,2m – nekonečno&#xA;Objektiv:&#x9;103mm f/14,6&#xA;Typ filmu:&#x9;SX-70&#xA;Další funkce:&#x9;korekce expozice&#xA;Stav:&#x9;7/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;500 kč&#xA;Poznámka:&#xA;Polaroid Land Camera 1500 Rok výroby:&#x9;1977&#xA;Rozsah zaostření:&#x9;1m – nekonečno&#xA;Objektiv:&#x9;116mm f/9,4&#xA;Typ filmu:&#x9;SX-70&#xA;Další funkce:&#x9;korekce expozice&#xA;Stav:&#x9;5/10&#xA;Funkčnost:&#x9;Ano&#xA;Kupní cena:&#x9;217 kč&#xA;Poznámka:</description>
     </item>
   </channel>
 </rss>

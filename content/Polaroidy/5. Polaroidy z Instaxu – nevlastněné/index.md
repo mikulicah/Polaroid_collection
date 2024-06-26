@@ -1,5 +1,5 @@
 +++
-title = '5. Polaroidy z Instaxu – nevlastněné'
+title = 'Polaroidy z Instaxu – nevlastněné'
 date = 2024-06-03
 draft = false
 +++

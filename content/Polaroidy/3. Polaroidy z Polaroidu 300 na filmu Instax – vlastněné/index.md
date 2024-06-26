@@ -1,5 +1,5 @@
 +++
-title = '3. Polaroidy z Polaroidu 300 na filmu Instax – vlastněné'
+title = 'Polaroidy z Polaroidu 300 na filmu Instax – vlastněné'
 date = 2024-06-03
 draft = false
 +++
